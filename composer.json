@@ -12,7 +12,5 @@
       "homepage": "http://seld.be"
     }
   ],
-  "require": {
-    "php": ">=5.3.0"
-  }
+
 }
